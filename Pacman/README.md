@@ -1,2 +1,2 @@
-#PAC-MAN
+# PAC-MAN
 Pacman scritto in JavaScript
