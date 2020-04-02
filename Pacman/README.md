@@ -1,4 +1,5 @@
 # PAC-MAN
 Pacman scritto in JavaScript
 
-**link:** https://editor.p5js.org/full/VkPaYhFM
+**Editor link:** https://editor.p5js.org/Nadif.Nizar/sketches/0nbOaYSKC
+**fullscreen link:** https://editor.p5js.org/full/0nbOaYSKC
